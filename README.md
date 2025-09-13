@@ -58,4 +58,4 @@ In this example, the script runs the `dh_make` command and generates a Debian pa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
+This project is licensed under the [MIT License](./LICENSE).
